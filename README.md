@@ -1,3 +1,4 @@
+# This project utilizes the pre-trained weights from the **RT-DETRv2** model developed by Wenyu Lv et al. for real-time object detection. The model's pre-trained weights are used to perform object detection tasks.
 
 ## Quick start
 
